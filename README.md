@@ -49,23 +49,51 @@ app.listen(3000, function() {
 });
 ```
 
-## Syntax of REST requests
+## Visual documentation of RESTful API request syntax
 
-![REST](images/1.png)
+The images below illustrate various HTTP methods and their usage in RESTful services.
 
-![RESTful](<images/2. RESTful.png>)
+---
 
-![3. GET-READ](<images/3. GET-READ.png>) 
+### 1. REST
+![1. REST](images/1.png)
 
-![4. HTML-form-POST](<images/4. HTML-form-POST.png>) 
+---
 
-![5. POST-CREATE](<images/5. POST-CREATE.png>) 
+### 2. RESTful
+![2. RESTful](images/2. RESTful.png)
 
-![6. DELETE](<images/6. DELETE.png>) 
+---
 
-![7. DELETE-Syntax](<images/7. DELETE-Syntax.png>) 
+### 3. GET – Read
+![3. GET-READ](images/3. GET-READ.png)
 
-![8. GET-Specific-Article](<images/8. GET-Specific-Article.png>) 
+---
 
-![9. PUT-Specific-Article](<images/9. PUT-Specific-Article.png>)
+### 4. HTML Form – POST
+![4. HTML-form-POST](images/4. HTML-form-POST.png)
 
+---
+
+### 5. POST – Create
+![5. POST-CREATE](images/5. POST-CREATE.png)
+
+---
+
+### 6. DELETE
+![6. DELETE](images/6. DELETE.png)
+
+---
+
+### 7. DELETE Syntax
+![7. DELETE-Syntax](images/7. DELETE-Syntax.png)
+
+---
+
+### 8. GET – Retrieve Specific Article
+![8. GET-Specific-Article](images/8. GET-Specific-Article.png)
+
+---
+
+### 9. PUT – Update Specific Article
+![9. PUT-Specific-Article](images/9. PUT-Specific-Article.png)
