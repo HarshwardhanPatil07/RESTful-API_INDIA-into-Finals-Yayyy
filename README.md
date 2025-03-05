@@ -80,8 +80,8 @@ The images below illustrate various HTTP methods and their usage in RESTful serv
 
 ---
 
-### 6. DELETE
-![6. DELETE](images/6.DELETE.png)
+### 6. PUT
+![6. PUT](images/6.PUT.png)
 
 ---
 
@@ -97,3 +97,8 @@ The images below illustrate various HTTP methods and their usage in RESTful serv
 
 ### 9. PUT – Update Specific Article
 ![9. PUT-Specific-Article](images/9.PUT-Specific-Article.png)
+
+---
+
+### 10. DELETE – Delete Specific Article
+![10. PUT-Specific-Article](images/10.DELETE-Specific-Article.png)
